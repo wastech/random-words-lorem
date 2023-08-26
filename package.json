@@ -1,6 +1,6 @@
 {
   "name": "random-words-lorem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The \"random-words-lorem\" module is a utility that generates random text resembling Lorem Ipsum. It provides a simple way for developers to generate placeholder text for testing or design purposes.",
   "main": "random-words-lorem.mjs",
   "type": "module", 
