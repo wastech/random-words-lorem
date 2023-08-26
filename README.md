@@ -7,7 +7,7 @@ You can use this module to generate random words in the style of Lorem Ipsum. Fo
 ### Installation
 Install the module in your project by running the following command in your terminal:
 
-```bash
+```Javascript
 npm install random-words-lorem 
 ```
 
@@ -19,7 +19,7 @@ Create a new JavaScript file in your project directory. You can name it anything
 ### Import and Use the Module:
 In your JavaScript file (e.g., use-module.js), import the module and generate a random sentence. Here's an example code snippet:
 
-```bash
+```Javascript
 // use-module.js
 
 const randomWordsLorem = require('random-words-lorem');
@@ -36,7 +36,7 @@ console.log(sentenceWithoutCommas);
 ### Run Your Script:
 Open your terminal and navigate to the directory where your JavaScript file is located. Run the script using Node.js:
 
-```bash
+```Javascript
 node use-module.js
 
 #You should see a sentence made up of random words, without any commas.
