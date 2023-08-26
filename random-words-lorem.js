@@ -15,4 +15,6 @@ function getRandomSentence(wordCount = 5) {
   return randomWords.join(' '); // Join words to form a sentence
 }
 
-export { getRandomSentence };
+module.exports = {
+  getRandomSentence
+};
