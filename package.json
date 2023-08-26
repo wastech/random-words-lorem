@@ -1,0 +1,25 @@
+{
+  "name": "random-words-lorem",
+  "version": "1.0.0",
+  "description": "The \"random-words-lorem\" module is a utility that generates random text resembling Lorem Ipsum. It provides a simple way for developers to generate placeholder text for testing or design purposes.",
+  "main": "random-words-lorem.mjs",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wastech/random-words-lorem.git#master"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "Lorem Ipsum"
+  ],
+  "author": "wastech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wastech/random-words-lorem/issues"
+  },
+  "homepage": "https://github.com/wastech/random-words-lorem/tree/master#readme"
+}
